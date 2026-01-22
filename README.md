@@ -7,7 +7,7 @@ This is my web development project.
     Git and Github basics
 
 ## Technologies used:
-HTML
+    HTML
 
 ## Author 
     Pooja
